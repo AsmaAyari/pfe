@@ -1,0 +1,23 @@
+Project\ManagerBundle\Entity\Role:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+
+        description:
+            type: text
+
+
+    oneToMany:
+        affectation:
+            targetEntity: Affectation
+            mappedBy: role
+    lifecycleCallbacks: {  }

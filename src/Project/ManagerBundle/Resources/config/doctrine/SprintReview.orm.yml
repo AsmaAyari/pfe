@@ -1,0 +1,8 @@
+Project\ManagerBundle\Entity\SprintReview:
+    type: entity
+    table: null
+
+    fields:
+        createdAt:
+            type: datetime
+    lifecycleCallbacks: {  }

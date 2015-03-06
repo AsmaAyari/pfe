@@ -1,0 +1,24 @@
+Project\ManagerBundle\Entity\Releases:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        version:
+            type: string
+            length: 255
+        date:
+            type: date
+
+    manyToOne:
+         project:
+                targetEntity: Project
+                inversedBy: releases
+                joinColumn:
+                   name: project_id
+                   referencedColumnName: id
+    lifecycleCallbacks: {  }

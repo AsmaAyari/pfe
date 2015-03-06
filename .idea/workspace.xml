@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="first commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/..png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/.image.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image01_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image02_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image03_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image04_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image05_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image06_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image07_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image08_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image09_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image10_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image11_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image12_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image13_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/gallery/Image14_tn.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/Magnifying-Glass.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/ajax_loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/alert.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/link/images/anchor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/avatars/avatar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/avatars/avatar_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/avatars/avatar_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/avatars/avatar_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/avatars/avatar_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/avi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/bat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/beoro.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/beoro_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_a.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_b.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_c.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_d.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_e.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_f.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/patterns/bg_none.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/bg_transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/bg_transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/bmp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/bullet_a.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/bullet_b.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/bullet_c.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/bullet_d.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/bz2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/ccd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/cgi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/clipboard-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/clipboard-add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/clipboard-clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/clipboard-clear.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/clipboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/close-clicked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/close-clicked.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/close-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/close-hover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/com.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.phar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/confirm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/copy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/cross.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/csh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/cue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/deb.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/tree/denied.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/tree/denied.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/dll.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/doc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/docx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/download.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dummy_150x150.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dummy_40x40.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dummy_50x50.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dummy_60x60.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/dummy_80x80.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/exe.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/fla.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/flags/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/flv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/folder-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/folder-new.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/tree/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/tree/folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/tree/folder_current.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/tree/folder_current.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/fon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/gif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/img/glyphicons-halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/img/glyphicons-halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/gz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/help_bullets.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/htm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/html.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/images/ibutton-slider-default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/images/ibutton-slider-giva-original.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/images/ibutton-slider-giva2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/magicline/images/icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/icsw2_16/icsw2_16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/icsw2_16/icsw2_16_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/icsw2_32/icsw2_32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/img_check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/ini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/iso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/jar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/java.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/jpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/jpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/js.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/kcf_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/kcf_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/about/dialogs/logo_ckeditor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/maximize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/maximize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mds.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mdx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/midi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/images/mini.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/tree/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/tree/minus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mkv.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mov.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/move.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mp3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mpeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/mpg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/nfo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/image/images/noimage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/nrg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/ogg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/pdf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/php.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/phps.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/pl.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/tree/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/tree/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/pm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/png.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/ppt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/pptx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/psd.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/qt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/question.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/rar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/rename.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/rpm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/rtf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/select.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/select2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/select2x2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/sh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/fixtures/sonata.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/fakeobjects/images/spacer.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/splashy/splashy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/srt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/sub.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/swf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/images/switch_btn_handle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/images/switch_btn_handle2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/tgz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/tif.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/tiff.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/top_nav.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/torrent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/ttf.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/txt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/upload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/icons/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/icons/view.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/wav.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/wma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/xls.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/xlsx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/big/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/img/files/small/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/big/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/img/files/small/zip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/!!read_me_first.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.bowerrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/integration/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/tpl/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.travis_setup.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/0bject.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/doctrine/Action.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Entity/Action.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/doctrine/ActionComponent.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Entity/ActionComponent.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Resources/config/doctrine/Address.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Entity/Address.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Affectation.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Affectation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/AffectationAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/AffectationAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/FOS/UserBundle/ApplicationFOSUserBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/ApplicationSonataBasketBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/ApplicationSonataClassificationBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/ApplicationSonataCommentBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/ApplicationSonataCustomerBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/DeliveryBundle/ApplicationSonataDeliveryBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/DeliveryBundle/DependencyInjection/ApplicationSonataDeliveryExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/ApplicationSonataInvoiceBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/ApplicationSonataMediaBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/ApplicationSonataNewsBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NotificationBundle/ApplicationSonataNotificationBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/ApplicationSonataOrderBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/ApplicationSonataPageBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PaymentBundle/ApplicationSonataPaymentBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/ApplicationSonataProductBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/SeoBundle/ApplicationSonataSeoBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/ApplicationSonataTimelineBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/ApplicationSonataUserBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/BEFORE_RELEASE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Resources/config/doctrine/Basket.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Entity/Basket.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Resources/config/doctrine/BasketElement.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Entity/BasketElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/doctrine/Block.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Block.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Bowl.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Bowl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Controller/BowlController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Provider/BowlProductProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Repository/BowlRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/bootstrap/BrowserContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Capfile.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Category.mongodb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Category.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Document/Category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Category.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/Changelog" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Collection.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Collection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Resources/config/doctrine/Comment.mongodb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Resources/config/doctrine/Comment.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Resources/config/doctrine/Comment.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Document/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Entity/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Document/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Entity/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/doctrine/Component.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Entity/Component.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/DependencyInjection/Configuration.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Context.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Context.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Resources/config/doctrine/Customer.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Entity/Customer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/DailyScrum.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/DailyScrum.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/DailyScrumAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/DailyScrumAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Delivery.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Delivery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Document.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Document.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/DocumentAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/DocumentAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/serializer/Entity.Action.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/serializer/Entity.ActionComponent.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Resources/config/serializer/Entity.Address.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Resources/config/serializer/Entity.Basket.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/BasketBundle/Resources/config/serializer/Entity.BasketElement.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/serializer/Entity.Block.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Bowl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Category.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Collection.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Resources/config/serializer/Entity.Comment.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/serializer/Entity.Component.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CustomerBundle/Resources/config/serializer/Entity.Customer.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Delivery.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.Gallery.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.GalleryHasMedia.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/serializer/Entity.Group.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Resources/config/serializer/Entity.Invoice.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Resources/config/serializer/Entity.InvoiceElement.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/serializer/Entity.Media.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NotificationBundle/Resources/config/serializer/Entity.Message.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Resources/config/serializer/Entity.Order.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Resources/config/serializer/Entity.OrderElement.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Package.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/serializer/Entity.Page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Resources/config/serializer/Entity.Post.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.ProductCategory.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.ProductCollection.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/serializer/Entity.Site.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/serializer/Entity.Snapshot.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/serializer/Entity.Tag.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/serializer/Entity.Timeline.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PaymentBundle/Resources/config/serializer/Entity.Transaction.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/serializer/Entity.User.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/bootstrap/FeatureContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/bootstrap/FeatureContext.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Gallery.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/Gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/GalleryHasMedia.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/GalleryHasMedia.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/doctrine/Group.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Entity/Group.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Resources/config/doctrine/Invoice.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Entity/Invoice.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Resources/config/doctrine/InvoiceElement.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/InvoiceBundle/Entity/InvoiceElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/LICENSE.GPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/LICENSE.LGPL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/translations/ManagerBundle.fr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Resources/config/doctrine/Media.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/MediaBundle/Entity/Media.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NotificationBundle/Resources/config/doctrine/Message.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NotificationBundle/Entity/Message.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Resources/config/doctrine/Order.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Entity/Order.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Resources/config/doctrine/OrderElement.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/OrderBundle/Entity/OrderElement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Package.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Package.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/doctrine/Page.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Page.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Permission.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Permission.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/PermissionAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/PermissionAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Resources/config/doctrine/Post.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Document/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Entity/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Document/PostRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/NewsBundle/Entity/PostRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Product.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Product.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/ProductCategory.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/ProductCategory.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/ProductCollection.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/ProductCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Project.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Project.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ProjectAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/ProjectAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/ProjectManagerBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/DependencyInjection/ProjectManagerExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/bootbox/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/doc/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Releases.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Releases.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ReleasesAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/ReleasesAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Requirement.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Requirement.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RequirementAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/RequirementAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Role.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Role.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RoleAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/RoleAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/doctrine/Site.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Site.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/config/doctrine/Snapshot.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Snapshot.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/SonataAdminBundle/translations/SonataAdminBundle.en.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/SonataAdminBundle/translations/SonataAdminBundle.fr.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/translations/SonataProductBundle.en.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/translations/SonataProductBundle.fr.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Sprint.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Sprint.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/SprintAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/SprintAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/SprintRetrospective.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/SprintRetrospective.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/SprintRetrospectiveAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/SprintRetrospectiveAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/SprintReview.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/SprintReview.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/SprintReviewAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/SprintReviewAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Tag.mongodb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Resources/config/doctrine/Tag.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Document/Tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ClassificationBundle/Entity/Tag.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/DeliveryBundle/Model/TakeAwayDelivery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Task.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Task.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/TaskAdmin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Controller/TaskAdminController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Resources/config/doctrine/Thread.mongodb.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Resources/config/doctrine/Thread.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Document/Thread.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/CommentBundle/Entity/Thread.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Resources/config/doctrine/Timeline.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/TimelineBundle/Entity/Timeline.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PaymentBundle/Resources/config/doctrine/Transaction.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/PaymentBundle/Entity/Transaction.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/doctrine/User.orm.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Entity/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/UserAffectation.orm.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/UserAffectation.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/_translationstatus.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/a11yhelp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/about/dialogs/about.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/about.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/about.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/customer/addresses.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/regression/admin.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/admin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/af.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/ajax_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/alerts_buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/link/dialogs/anchor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/assetic.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/autogrow/samples/autogrow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/basket/basket.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/shop/basket.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/bazinga/bazinga_faker.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/bazinga/bazinga_hateos.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/behat.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/behat.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/behat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/beoro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/bg.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/blog_page.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/blog_page_single.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/bootbox/bootbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/bootbox/bootbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap-responsive.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/bootstrap/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/SeoBundle/Resources/views/Block/breadcrumb.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/browse.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/browser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/bootbox/build.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/ca.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/calendar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/car/car.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/classification/category.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/classification/category.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/classification/category.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/charts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/shop/checkout.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_image.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_image_gd.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_image_gmagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_image_imagick.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_input.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/class_zipFolder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/clipboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/classification/collection.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/news/comment.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/blog/comment.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/contact_list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/context_menu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/cs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/custom_controls.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/customer/customer.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/ecommerce/customer.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/da.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/dashboard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ajax_content/datatable.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/datatables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/de.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/pastefromword/filter/default.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/DeliveryBundle/Resources/config/delivery.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/carousel/demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/dialog/dialogDefinition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/dialog_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/dialog_opera.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine-dbal" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/doctrine" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/dropUpload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/integration/drupal.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/editable_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/editor_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/el.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/elevation_locations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/elevation_routes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/empty.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/en-au.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/en-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/en.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/eo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/error_404.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/es.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/eu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/examples.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/fa.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/fi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/file_manager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ajax_content/file_manager.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/files.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/views/Bowl/final_review_basket_element.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/flags/flags.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/folders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/views/Bowl/form_basket_element.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/form_elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/form_validation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos/fos_comment.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos/fos_elastica.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos/fos_rest.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/fos/fos_user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/fr-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/fr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/fusion_tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/media/gallery.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/gallery.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/geocoding.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/geofences.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/geolocation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/geometry.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/invoice/get.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/media/get.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/order/get.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/gettingstarted.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/gmaps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/gmaps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/gmaps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/user/group.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/user/group.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/bootbox/header.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/help_faq.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ajax_content/help_faq.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/helper_dir.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/helper_file.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/helper_httpCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/helper_path.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lib/helper_text.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/hi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/page/homepage.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/ie/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/ie/html5shiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/hu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/ibutton_example.htm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/icsw2_16/icsw2_16.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/icsw2_32/icsw2_32.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/ie9.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/image/dialogs/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/ecommerce/invoice.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/invoices.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/it.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/ja.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/joiner.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/jquery.drag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.easing.1.3.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/css/jquery.ibutton-giva-original.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.ibutton.beoro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.ibutton.beoro.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/css/jquery.ibutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.ibutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/css/jquery.ibutton.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.ibutton.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.metadata.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ibutton/js/jquery.metadata.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/jquery.rightClick.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js_localize.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ka.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/km.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/kml.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/knp/knp_behat.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/knp/knp_paginator.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/ku.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/layers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/layers_places.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/link/dialogs/link.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/load_data.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/login.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/login/login.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/views/Security/login.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/lt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/mailbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/map_events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/map_types.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/marker_clusterer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/markers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/media/media.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/media/media.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/misc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/mn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/mopa/mopa_bootstrap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/nl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/no.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/no.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/notifications.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/ecommerce/order.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/shop/order.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/customer/orders.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/overlay_map_types.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/overlays.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/page/page.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/page/page.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/page/page.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/regression/page.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/clipboard/dialogs/paste.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/pfe.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phpunit.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/phpunit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/pl.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/carousel/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/autogrow/plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/carousel/plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/polygons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/polylines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/news/post.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/blog/post.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/blog/post.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/product/product.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/ecommerce/product.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/shop/product.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/product.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/customer/profile.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/pt-br.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/pt.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/qa_behat.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/qa_build_git.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/qa_client_ci.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/qa_package.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/qa_phpdocs.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/carousel/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/skins/moono/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/ie/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/ro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/routes.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/routes_advanced.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_admin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_api.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_front.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/ru.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker.bat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/security-checker" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/select2.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/select2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/select2/select2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/settings.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/page/site.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/sk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/page/snapshot.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_admin_css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_admin_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_basket.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_cache.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_comment.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_core.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_customer.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_delivery.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_formatter.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_formatter_css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_formatter_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_front_css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_front_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_intl.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_invoice.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_jqueryui_css.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/assetic/sonata_jqueryui_js.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_media.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_news.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_notification.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_order.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_page.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_payment.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_price.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_product.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_seo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_timeline.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/specialchar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/img/splashy/splashy.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/sr-latn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/static.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/static_markers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/static_polylines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/sticky/sticky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/sticky/sticky.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/sticky/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/dark/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/themes/oxygen/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/styled_maps.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/sv.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/table/dialogs/table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ajax_content/table.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/tabletools/dialogs/tableCell.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/table_examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/table_stacking.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/tables_regular.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/tabs_accordions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/classification/tag.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/classification/tag.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/ajax_content/text.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/js/browser/toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/tooltips_popovers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/tpl/tpl_browser.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/tpl/tpl_css.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/tpl/tpl_javascript.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/tr.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/gmaps/examples/travel_route.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/frontend/seo/twitter.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/types/type_img.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/types/type_mime.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/typography.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/ug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/uk.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/upload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/core/uploader.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/user/user.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/backend/user/user.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/user_profile.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/vi.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/views/Bowl/view.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/widgets.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fluid_layout/wizard.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/api/media/workflow.feature" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/a11yhelp/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/plugins/specialchar/dialogs/lang/zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/file_manager/lang/zh-cn.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/lib/ckeditor/lang/zh.js" />
+    </list>
+    <ignored path="sandbox-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sandbox-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="empty.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/empty.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="136">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing_front.yml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/config/routing_front.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="31" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.8011696" vertical-offset="864" max-vertical-offset="1377">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="FrameworkCommandLineHistory">
+    <commandsHistory>
+      <command text="s doctrine:schema:update --force" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:update --force " />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:database:create" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:database:create" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:schema:update --force " />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:create" />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:update --force " />
+      <command text="s doctrine:generate:entities ProjectManagerBundle" />
+      <command text="s doctrine:schema:update --force " />
+      <command text="s fos:user:create " />
+      <command text="s fos:user:promote " />
+    </commandsHistory>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/config_dev.yml" />
+        <option value="$PROJECT_DIR$/app/config/routing_dev.yml" />
+        <option value="$PROJECT_DIR$/app/config/fos/fos_elastica.yml" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/src/Application/Sonata/PageBundle/Resources/views/demo_2columns_layout.html.twig" />
+        <option value="$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/views/Security/login.html.twig" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Entity/SprintReview.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Resources/config/doctrine/Task.orm.yml" />
+        <option value="$PROJECT_DIR$/../ProjectManager/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Resources/config/doctrine/Project.orm.yml" />
+        <option value="$PROJECT_DIR$/../ProjectManager/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Entity/Project.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Entity/Task.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Entity/UserAffectation.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Resources/config/doctrine/UserAffectation.orm.yml" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Entity/Role.php" />
+        <option value="$PROJECT_DIR$/../ProjectManager/src/Project/ManagerBundle/Resources/config/doctrine/Role.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/TaskAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Task.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/UserAffectation.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Releases.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Sprint.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Document.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Requirement.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Task.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RequirementAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Requirement.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/UserAffectation.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/transations/ManagerBundle.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/transations/ManagerBundle.an.yml" />
+        <option value="$PROJECT_DIR$/app/config/routing_front.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ReleasesAdmin.php" />
+        <option value="$PROJECT_DIR$/web/assetic/sonata_admin_css.css" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ProjectAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/admin.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Project.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/translations/ManagerBundle.fr.yml" />
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RoleAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Role.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Mission.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Role.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Project.orm.yml" />
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_page.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Admin/AffectationAdmin.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Affectation.orm.yml" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Affectation.php" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/views/layout.html.twig.html" />
+        <option value="$PROJECT_DIR$/src/Project/ManagerBundle/Resources/views/layout.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1366" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pfe" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ManagerBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.webide.settings.project.settings.php.zend.framework.tool" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\pfe\web" />
+      <recent name="C:\wamp\www\ProjectManager\app\config" />
+      <recent name="C:\wamp\www\ProjectManager\src" />
+      <recent name="C:\wamp\www\sandbox-test\src" />
+      <recent name="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="" />
+      <created>1422009588604</created>
+      <updated>1422009588604</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1422018259294</created>
+      <updated>1422018259294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="728" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09259259" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3939394" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34021407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35690236" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18350169" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Document.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="35" selection-start="431" selection-end="431" vertical-scroll-proportion="0.69017094" vertical-offset="0" max-vertical-offset="493" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Sprint.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.7991453" vertical-offset="0" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Document.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="0" selection-start="1293" selection-end="1293" vertical-scroll-proportion="-15.692307" vertical-offset="1037" max-vertical-offset="1547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Sprint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="156" column="0" selection-start="2540" selection-end="2540" vertical-scroll-proportion="0.9230769" vertical-offset="2244" max-vertical-offset="2754" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Task.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="24" selection-start="438" selection-end="438" vertical-scroll-proportion="0.491453" vertical-offset="144" max-vertical-offset="612" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Releases.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="43" selection-start="313" selection-end="524" vertical-scroll-proportion="0.7094017" vertical-offset="42" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Task.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="148" column="0" selection-start="2211" selection-end="2211" vertical-scroll-proportion="0.9230769" vertical-offset="2108" max-vertical-offset="2618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="447" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_user.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="0" selection-start="2466" selection-end="2466" vertical-scroll-proportion="0.92" vertical-offset="459" max-vertical-offset="952" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="11" selection-start="1188" selection-end="1188" vertical-scroll-proportion="0.0" vertical-offset="438" max-vertical-offset="1819" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/fos/fos_user.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="426" selection-end="426" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="0" selection-start="557" selection-end="557" vertical-scroll-proportion="0.6273063" vertical-offset="0" max-vertical-offset="542" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assetic/sonata_formatter_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="95" selection-start="4061" selection-end="4061" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/assetic/sonata_admin_css.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="175323" selection-end="175323" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="50" selection-start="578" selection-end="578" vertical-scroll-proportion="0.0" vertical-offset="58" max-vertical-offset="527" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/TaskAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="2" selection-start="1428" selection-end="1428" vertical-scroll-proportion="-9.846154" vertical-offset="730" max-vertical-offset="1326" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RequirementAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="82" column="5" selection-start="1938" selection-end="2022" vertical-scroll-proportion="-9.307693" vertical-offset="1084" max-vertical-offset="1462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/DailyScrum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/translations/ManagerBundle.fr.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="135" selection-end="135" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/UserBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/doctrine/Group.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="433" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/UserBundle/Resources/config/doctrine/User.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="598" selection-end="598" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/DailyScrum.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="0" selection-start="87" selection-end="132" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="238" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ReleasesAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.6542056" vertical-offset="723" max-vertical-offset="1156" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/ProjectAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="81" column="10" selection-start="2295" selection-end="2295" vertical-scroll-proportion="-49.03846" vertical-offset="0" max-vertical-offset="1462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/RoleAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="5" selection-start="1212" selection-end="1212" vertical-scroll-proportion="0.41396508" vertical-offset="616" max-vertical-offset="1105" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Requirement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="217" column="7" selection-start="3349" selection-end="3349" vertical-scroll-proportion="0.6787879" vertical-offset="3465" max-vertical-offset="4777" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/UserAffectation.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="13" selection-start="387" selection-end="387" vertical-scroll-proportion="0.5730337" vertical-offset="85" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Requirement.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="13" selection-start="684" selection-end="684" vertical-scroll-proportion="0.5646067" vertical-offset="309" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="1384" selection-end="1384" vertical-scroll-proportion="-0.65384614" vertical-offset="1615" max-vertical-offset="2720">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_api.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Project.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="12" selection-start="339" selection-end="339" vertical-scroll-proportion="0.5301508" vertical-offset="78" max-vertical-offset="646">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_page.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="125" column="7" selection-start="3942" selection-end="3942" vertical-scroll-proportion="0.0" vertical-offset="2001" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="24" selection-start="279" selection-end="289" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="408">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_admin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Role.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="20" selection-start="346" selection-end="346" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Role.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="14" selection-start="2432" selection-end="2432" vertical-scroll-proportion="0.87903225" vertical-offset="2087" max-vertical-offset="2652">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="107" column="6" selection-start="3349" selection-end="3349" vertical-scroll-proportion="0.0" vertical-offset="1611" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_admin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="17" selection-start="657" selection-end="657" vertical-scroll-proportion="0.08027523" vertical-offset="220" max-vertical-offset="3383">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/admin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="746" selection-end="746" vertical-scroll-proportion="0.46770602" vertical-offset="62" max-vertical-offset="1394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Resources/config/doctrine/Affectation.orm.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="701" selection-end="701" vertical-scroll-proportion="0.5835189" vertical-offset="197" max-vertical-offset="697">
+          <folding>
+            <marker date="1425634479220" expanded="true" signature="-1:-1" placeholder="fields:" />
+            <marker date="1425634479220" expanded="true" signature="-1:-1" placeholder="createdAt:" />
+            <marker date="1425634479220" expanded="true" signature="-1:-1" placeholder="role:" />
+            <marker date="1425634479220" expanded="true" signature="-1:-1" placeholder="joinColumn:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Admin/AffectationAdmin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="9" selection-start="1523" selection-end="1523" vertical-scroll-proportion="-6.269231" vertical-offset="806" max-vertical-offset="1394">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Project/ManagerBundle/Entity/Affectation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="147" column="0" selection-start="2352" selection-end="2352" vertical-scroll-proportion="-12.346154" vertical-offset="2178" max-vertical-offset="2601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="462" selection-end="462" vertical-scroll-proportion="0.56264776" vertical-offset="0" max-vertical-offset="423">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/frontend/blog/post.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/Security/login.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="619" selection-end="619" vertical-scroll-proportion="0.56264776" vertical-offset="0" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle/FOS/UserBundle/Resources/views/layout.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="11" selection-start="1006" selection-end="1006" vertical-scroll-proportion="0.91962177" vertical-offset="104" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/empty.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="449">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="568">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_front.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="31" selection-start="2230" selection-end="2230" vertical-scroll-proportion="0.8011696" vertical-offset="864" max-vertical-offset="1377">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

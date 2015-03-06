@@ -1,0 +1,39 @@
+Project\ManagerBundle\Entity\Requirement:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        description:
+            type: string
+            length: 255
+        priority:
+            type: integer
+        duration:
+            type: integer
+        createdAt:
+            type: datetime
+        finishedAt:
+            type: datetime
+        name:
+            type: string
+            length: 255
+
+    manyToOne:
+           project:
+                  targetEntity: Project
+                  inversedBy: requirements
+                  joinColumn:
+                     name: project_id
+                     referencedColumnName: id
+
+    oneToMany:
+           tasks:
+               targetEntity: Task
+               mappedBy: requirement
+
+    lifecycleCallbacks: {  }

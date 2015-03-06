@@ -1,0 +1,32 @@
+Project\ManagerBundle\Entity\Project:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        description:
+            type: text
+
+    oneToMany:
+        affectation:
+            targetEntity: Affectation
+            mappedBy: project
+
+    oneToMany:
+        requirements:
+            targetEntity: Requirement
+            mappedBy: project
+
+    oneToMany:
+        releases:
+            targetEntity: Releases
+            mappedBy: project
+
+    lifecycleCallbacks: {  }

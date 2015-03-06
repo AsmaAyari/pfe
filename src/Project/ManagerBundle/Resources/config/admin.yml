@@ -1,0 +1,76 @@
+services:
+    sonata.admin.task:
+        class: Project\ManagerBundle\Admin\TaskAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Task, ProjectManagerBundle:TaskAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: sonata_project, label: Task}
+
+    sonata.admin.project:
+        class: Project\ManagerBundle\Admin\ProjectAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Project, ProjectManagerBundle:ProjectAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: sonata_project, label: Project}
+        calls:
+            - [setTranslationDomain,  [ManagerBundle]]
+            - [addChild,  [@sonata.admin.requirement]]
+            - [addChild,  [@sonata.admin.affectation]]
+
+    sonata.admin.role:
+        class: Project\ManagerBundle\Admin\RoleAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Role, ProjectManagerBundle:RoleAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: sonata_project, label: Role}
+
+    sonata.admin.permission:
+        class: Project\ManagerBundle\Admin\PermissionAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Permission, ProjectManagerBundle:PermissionAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Permission}
+
+    sonata.admin.document:
+        class: Project\ManagerBundle\Admin\DocumentAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Document, ProjectManagerBundle:DocumentAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Document}
+
+    sonata.admin.releases:
+        class: Project\ManagerBundle\Admin\ReleasesAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Releases, ProjectManagerBundle:ReleasesAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Releases}
+
+    sonata.admin.requirement:
+        class: Project\ManagerBundle\Admin\RequirementAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Requirement, ProjectManagerBundle:RequirementAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Requirement}
+
+    sonata.admin.sprint:
+        class: Project\ManagerBundle\Admin\SprintAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Sprint, ProjectManagerBundle:SprintAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Sprint}
+
+    sonata.admin.daily_scrum:
+        class: Project\ManagerBundle\Admin\DailyScrumAdmin
+        arguments: [~, Project\ManagerBundle\Entity\DailyScrum, ProjectManagerBundle:DailyScrumAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: DailyScrum}
+
+    sonata.admin.sprint_retrospective:
+        class: Project\ManagerBundle\Admin\SprintRetrospectiveAdmin
+        arguments: [~, Project\ManagerBundle\Entity\SprintRetrospective, ProjectManagerBundle:SprintRetrospectiveAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: SprintRetrospective}
+
+    sonata.admin.sprint_review:
+        class: Project\ManagerBundle\Admin\SprintReviewAdmin
+        arguments: [~, Project\ManagerBundle\Entity\SprintReview, ProjectManagerBundle:SprintReviewAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: SprintReview}
+
+    sonata.admin.affectation:
+        class: Project\ManagerBundle\Admin\AffectationAdmin
+        arguments: [~, Project\ManagerBundle\Entity\Affectation, ProjectManagerBundle:AffectationAdmin]
+        tags:
+            - {name: sonata.admin, manager_type: orm, group: admin, label: Affectation}

@@ -1,0 +1,859 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Controller\GoodieController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Controller\TravelController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Entity\Goodie.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Entity\Travel.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Provider\GoodieProductProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Provider\TravelProductProvider.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Repository\GoodieRepository.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Repository\TravelRepository.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config\doctrine\Goodie.orm.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config\doctrine\Travel.orm.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config\serializer\Entity.Goodie.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config\serializer\Entity.Travel.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Goodie\final_review_basket_element.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Goodie\form_basket_element.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Goodie\properties.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Goodie\view.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Travel\final_review_basket_element.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Travel\form_basket_element.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Travel\properties.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\views\Travel\view.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Admin\CarAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Admin\ColorAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Admin\EngineAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Admin\InspectionAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Admin\MaterialAdmin.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Block\NewsletterBlockService.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Controller\DemoController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadCategoryData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadCollectionData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadContextData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadMediaData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadNewsData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadOrderData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadPageData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadProductData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\ORM\LoadUserData.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0003.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0138.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0145.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0432.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0468.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0476.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0491.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0496.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_0579.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_1188.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\IMG_1885.JPG" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\elephpant.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\elephpant_blue.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\elephpant_green.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\elephpant_orange.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_1531.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_3587.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_3932.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_4071.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_4175.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-canada\IMG_4260.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-paris\IMG_6210.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-paris\IMG_6226.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-paris\IMG_7704.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-paris\IMG_7725.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\gilles-paris\IMG_7731.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-06-24 à 13-40-07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-07-13 à 11-55-40.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-07-13 à 12-19-17.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-07-13 à 12-21-59.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-07-18 à 15-06-06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010-07-18 à 15-07-57.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\2010_07_24_a_17_11_43.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\IMG_5885.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-canada\IMG_6086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_2571.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_2577.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_2582.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_2585.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_2599.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_3008.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_3048.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\hugo-paris\IMG_3236.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9990413.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L99910041.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9997827.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9998697.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9998902bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9999086.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9999742.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9999744.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\maha-japan\L9999750bw.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\php_mug.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\php_tee_shirt.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sonata_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2012-05-19_006.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2013-10-25_001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2013-10-25_002.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2013-10-25_004.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2013-10-25_005.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\files\sylvain-switzerland\switzerland_2013-10-26_003.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DataFixtures\data\robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\DependencyInjection\SonataDemoExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Car.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Citroen.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Color.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Engine.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Inspection.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Material.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\MediaPreview.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Peugeot.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Entity\Renault.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Form\DataTransformer\EngineChoiceTransformer.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Form\Extension\RescueEngineTypeExtension.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Form\Type\CarType.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Form\Type\EngineType.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Form\Type\NewsletterType.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Menu\Builder.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\admin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\block.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\form.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\products.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\routing\demo.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\config\validation.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\css\demo.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\images\api.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\images\glyphicons_social_21_github.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\images\glyphicons_social_31_twitter.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\images\secure_qr_code.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\images\sonata-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\public\js\demo.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\translations\SonataDemoBundle.en.xliff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\translations\SonataDemoBundle.fr.xliff" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\views\Block\newsletter.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\views\Block\newsletter_confirmation.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\views\Demo\car.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\Resources\views\Demo\media.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\DemoBundle\SonataDemoBundle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Controller\PageController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Controller\SerializerController.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Resources\behat\composer.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Resources\config\routing\qa.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Resources\views\Page\controllerHelper.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Resources\views\Serializer\serialize.html.twig" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\SonataQABundle.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\CommandTestCase.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\ListCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataAdminExplainCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataAdminListCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataBlockDebugCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataCacheFlushAllCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataCacheFlushCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataEasyExtendsDumpMappingCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataMediaAddCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataMediaRefreshMediaCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataMediaSyncCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNewsSyncCommentTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNotificationCleanUpCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNotificationHandlerListCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNotificationListQueuesCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNotificationRestartCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataNotificationStartCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageCleanSnapshotCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageCreateSiteCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageCreateSnapshotCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageDumpCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageRenderBlockCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataPageUpdateCoreRouteCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataSeoSitemapCommandTest.php" afterPath="" />
+      <change type="DELETED" beforePath="C:\wamp2\www\sandbox-test\src\Sonata\Bundle\QABundle\Tests\SonataUserTwoStepVerificationCommandTest.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/AppKernel.php" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml" afterPath="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/routing_front.yml" afterPath="$PROJECT_DIR$/app/config/routing_front.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/sonata/sonata_product.yml" afterPath="$PROJECT_DIR$/app/config/sonata/sonata_product.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="sandbox-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="sandbox-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="sonata_product.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_product.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="10" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="493">
+              <folding>
+                <marker date="1422020536802" expanded="true" signature="0:453" placeholder="sonata_product:" />
+                <marker date="1422020536802" expanded="true" signature="20:206" placeholder="products:" />
+                <marker date="1422020536802" expanded="true" signature="40:206" placeholder="sonata.ecommerce_demo.product.bowl:" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="product.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/product.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="87" column="3" selection-start="2774" selection-end="2775" vertical-scroll-proportion="-7.28" vertical-offset="1297" max-vertical-offset="2703">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="493">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routing_front.yml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/routing_front.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="4" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AppKernel.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="116" column="0" selection-start="5116" selection-end="5116" vertical-scroll-proportion="0.4642857" vertical-offset="1695" max-vertical-offset="2533">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bowl.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Bowl.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="19" selection-start="621" selection-end="621" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="782">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Entity.Product.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="84" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Block.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Block.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="629">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationSonataProductBundle.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/ApplicationSonataProductBundle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="12" selection-start="279" selection-end="279" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="527">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_block.yml" />
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_payment.yml" />
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_admin.yml" />
+        <option value="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml" />
+        <option value="$PROJECT_DIR$/app/config/sonata/sonata_product.yml" />
+        <option value="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/product.yml" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Bowl.php" />
+        <option value="$PROJECT_DIR$/app/config/routing_front.yml" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sonata" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Application" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sandbox-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp2\www\sandbox-test\src\Application\Sonata\ProductBundle\Resources\config" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="" />
+      <created>1422009588604</created>
+      <updated>1422009588604</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1422018259294</created>
+      <updated>1422018259294</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328594" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/config/routing_dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_api.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_admin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="46" selection-start="1024" selection-end="1025" vertical-scroll-proportion="-7.28" vertical-offset="345" max-vertical-offset="1819">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Delivery.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Package.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/ProductCategory.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/ProductCollection.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/doctrine/Product.orm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Delivery.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Package.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.ProductCategory.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.ProductCollection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="573">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_basket.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_block.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="8" selection-start="2855" selection-end="2855" vertical-scroll-proportion="-14.28" vertical-offset="1105" max-vertical-offset="1666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_cache.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_comment.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_core.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_customer.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_delivery.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_formatter.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="37" selection-start="1265" selection-end="1267" vertical-scroll-proportion="-7.48" vertical-offset="425" max-vertical-offset="1292">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_intl.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_invoice.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_media.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="97" column="65" selection-start="3649" selection-end="3652" vertical-scroll-proportion="-7.48" vertical-offset="1462" max-vertical-offset="3145">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_news.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="36" selection-start="693" selection-end="695" vertical-scroll-proportion="-13.6" vertical-offset="0" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_notification.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="697">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_order.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_page.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="51" column="52" selection-start="1613" selection-end="1617" vertical-scroll-proportion="-7.48" vertical-offset="680" max-vertical-offset="2431">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_payment.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="19" selection-start="693" selection-end="695" vertical-scroll-proportion="-7.48" vertical-offset="170" max-vertical-offset="1224">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_price.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="586">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_seo.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="44" selection-start="825" selection-end="829" vertical-scroll-proportion="-7.28" vertical-offset="192" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_user.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="174" selection-start="1034" selection-end="1036" vertical-scroll-proportion="-7.28" vertical-offset="362" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_timeline.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="28" selection-start="143" selection-end="145" vertical-scroll-proportion="-3.4" vertical-offset="0" max-vertical-offset="442">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_admin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="22" selection-start="4899" selection-end="4899" vertical-scroll-proportion="-17.16" vertical-offset="1033" max-vertical-offset="3247">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/PageBundle/Entity/Block.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/ApplicationSonataProductBundle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="12" selection-start="279" selection-end="279" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/serializer/Entity.Product.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="84" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/sonata/sonata_product.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="10" selection-start="40" selection-end="40" vertical-scroll-proportion="-1.36" vertical-offset="0" max-vertical-offset="493">
+          <folding>
+            <marker date="1422020536802" expanded="true" signature="0:453" placeholder="sonata_product:" />
+            <marker date="1422020536802" expanded="true" signature="20:206" placeholder="products:" />
+            <marker date="1422020536802" expanded="true" signature="40:206" placeholder="sonata.ecommerce_demo.product.bowl:" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Resources/config/product.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="289">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/Sonata/ProductBundle/Entity/Bowl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="19" selection-start="621" selection-end="621" vertical-scroll-proportion="-9.807693" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="87" column="3" selection-start="2774" selection-end="2775" vertical-scroll-proportion="-7.28" vertical-offset="1297" max-vertical-offset="2703">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="607">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/routing_front.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1411">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="116" column="0" selection-start="5116" selection-end="5116" vertical-scroll-proportion="0.4642857" vertical-offset="1695" max-vertical-offset="2533">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

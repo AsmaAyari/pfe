@@ -1,0 +1,35 @@
+Project\ManagerBundle\Entity\Affectation:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        createdAt:
+            type: datetime
+
+    manyToOne:
+        project:
+                  targetEntity: Project
+                  inversedBy: affectation
+                  joinColumn:
+                     name: project_id
+                     referencedColumnName: id
+        role:
+                  targetEntity: Role
+                  inversedBy: affectation
+                  joinColumn:
+                     name: role_id
+                     referencedColumnName: id
+
+        user:
+                  targetEntity: Application\Sonata\UserBundle\Entity\User
+                  cascade: ["all"]
+                  joinColumn:
+                     name: user_id
+                     referencedColumnName: id
+                     fetch: EAGER
+    lifecycleCallbacks: {  }

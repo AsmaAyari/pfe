@@ -1,0 +1,30 @@
+Project\ManagerBundle\Entity\Task:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        description:
+            type: string
+            length: 255
+        type:
+            type: string
+            lenght: 255
+
+
+    manyToOne:
+            requirement:
+                   targetEntity: Requirement
+                   inversedBy: tasks
+                   joinColumn:
+                      name: requirement_id
+                      referencedColumnName: id
+
+    lifecycleCallbacks: {  }

@@ -1,0 +1,25 @@
+Project\ManagerBundle\Entity\Sprint:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: 255
+        createdAt:
+            type: datetime
+        finishedAt:
+            type: datetime
+
+    oneToMany:
+           documents:
+               targetEntity: Document
+               mappedBy: sprint
+
+
+    lifecycleCallbacks: {  }
