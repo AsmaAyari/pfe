@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="">
+    <list default="true" id="658af316-f964-475f-84d4-6595104a496d" name="Default" comment="first commit">
       <change type="DELETED" beforePath="C:\wamp\www\pfe\src\Project\ManagerBundle\Controller\AffectationAdminController.php" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\pfe\src\Project\ManagerBundle\Controller\DailyScrumAdminController.php" afterPath="" />
       <change type="DELETED" beforePath="C:\wamp\www\pfe\src\Project\ManagerBundle\Controller\DocumentAdminController.php" afterPath="" />
@@ -400,8 +400,7 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="first commit" />
-    <MESSAGE value="add template and modify the config of sonata PageBundle" />
-    <option name="LAST_COMMIT_MESSAGE" value="add template and modify the config of sonata PageBundle" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
